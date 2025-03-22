@@ -48,6 +48,10 @@ I hold a Technical Degree in Programming and Systems Analysis and I'm currently 
   <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
 </a>
 
+## Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31x7ipkz4xdthcgpqyaiuvohbp64)
+
+
 <h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=SebaPobando&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
