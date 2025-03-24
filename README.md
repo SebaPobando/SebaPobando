@@ -49,7 +49,7 @@ I hold a Technical Degree in Programming and Systems Analysis and I'm currently 
 </a>
 
 ## Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31x7ipkz4xdthcgpqyaiuvohbp64)
+[![Spotify Now Playing](https://your-service-url.com/api/spotify)](https://open.spotify.com/user/31x7ipkz4xdthcgpqyaiuvohbp64)
 
 <h2>Github stats:</h2> 
 
