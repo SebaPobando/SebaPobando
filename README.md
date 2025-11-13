@@ -49,7 +49,8 @@ I hold a Technical Degree in Programming and Systems Analysis and I'm currently 
 </a>
 
 ## Spotify Playing 🎧
-[![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=31x7ipkz4xdthcgpqyaiuvohbp64&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31x7ipkz4xdthcgpqyaiuvohbp64)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31x7ipkz4xdthcgpqyaiuvohbp64&cover_image=true)](https://open.spotify.com/user/31x7ipkz4xdthcgpqyaiuvohbp64)
+
 
 <h2>Github stats:</h2> 
 
