@@ -4,12 +4,12 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> ***About me***
 
-I am a Full-Stack Developer with experience in web applications and technical training[cite: 5]. I specialize in building scalable solutions and automating workflows using Python, Django, Flask, JavaScript, SQL, and Odoo[cite: 6, 42]. Beyond development, I work as an instructor teaching Full-Stack Python to students across Latin America, focusing on practical learning and technical leadership[cite: 7, 10, 15].
+I am a Full-Stack Developer with experience in web applications and technical training. I specialize in building scalable solutions and automating workflows using Python, Django, Flask, JavaScript, SQL, and Odoo. Beyond development, I work as an instructor teaching Full-Stack Python to students across Latin America, focusing on practical learning and technical leadership.
 
-I hold a Technical Degree in Programming and Systems Analysis [cite: 2, 32] and I am currently pursuing a degree in Computer Engineering[cite: 8, 30]. I'm passionate about continuous learning and writing clean, impactful code.
+I hold a Technical Degree in Programming and Systems Analysis and I am currently pursuing a degree in Computer Engineering. I'm passionate about continuous learning and writing clean, impactful code.
 
 - 🔭 **I’m currently working on:** **Kucha** 🐾, the definitive pet-tech ecosystem and digital passport for pets in Chile (built with Django, PostgreSQL, Celery, and Redis).
-- 👨‍🏫 **I’m also:** Mentoring the next generation of developers and preparing teams for technical challenges[cite: 16, 17].
+- 👨‍🏫 **I’m also:** Mentoring the next generation of developers and preparing teams for technical challenges.
 - 🌱 **I’m currently learning:** Advanced backend architecture, Docker, and React.
 - 🚗 **Outside tech:** I'm a huge fan of JDM car culture (proud owner of a purple Subaru Impreza), I enjoy playing Clash Royale and Fortnite, and I love spending time with my girlfriend and our two cats.
 - 📫 **Reach out to me at:** <a href="mailto:spobleteobando@gmail.com">spobleteobando@gmail.com</a> 
